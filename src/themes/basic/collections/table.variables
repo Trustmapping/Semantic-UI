@@ -5,7 +5,7 @@
 @headerBackground: @white;
 @footerBackground: @white;
 
-@cellVerticalPadding: 1em;
-@cellHorizontalPadding: 1em;
+@cellVerticalPadding: .5em;
+@cellHorizontalPadding: .5em;
 
 @stateMarkerWidth: 1px;
